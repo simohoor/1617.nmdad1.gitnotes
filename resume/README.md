@@ -5,11 +5,11 @@ Simon Hoornaert NMDAD1
 
 > ##**Persoonlijk:**
 
->- 20jaar
->- geboren te Gent
->- Woonplaats: Waarschoot
+* 20jaar
+* geboren te Gent
+* Woonplaats: Waarschoot
 
-* ##**Opleidingen:**
+> ##**Opleidingen:**
 
 * Sint-Franciscus Evergem (2j)
     * Moderne Talen   
@@ -19,5 +19,5 @@ Simon Hoornaert NMDAD1
     * Grafische Digitale Media - Multimediaproductie proDEV
 
 > ##**Werkervaringen:**
->- Carrefour Waarschoot
->- Deltaworkx Gent
+* Carrefour Waarschoot
+* Deltaworkx Gent
