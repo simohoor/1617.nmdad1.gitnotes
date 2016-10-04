@@ -21,7 +21,7 @@ Simon Hoornaert NMDAD1
 > ##**Werkervaringen:**
 
 * Carrefour Waarschoot
-* Deltaworkx Gent
+* [Deltaworkx](http://www.deltaworx.eu/ "Deltaworkx") Gent
 
 > ##**Talenkennis:**
 
