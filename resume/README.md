@@ -42,3 +42,5 @@ Simon Hoornaert NMDAD1
 |  jQuerry        | 5                            | 
 | C#       | 7                           | 
 | PHP           | 4                            | 
+
+_Simon Hoornaert 2016_
