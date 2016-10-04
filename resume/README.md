@@ -32,7 +32,7 @@ Simon Hoornaert NMDAD1
 | Frans            | 6                            | 
 | Spaans           | 3                            |
 
-> ##**ProgrammeerTalenkennis:**
+> ##**Programmeer Talenkennis:**
 
 | Taal             | Score                        | 
  ----------------- | ---------------------------- | 
