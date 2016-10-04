@@ -3,7 +3,7 @@ Simon Hoornaert NMDAD1
 
 ## RESUME ##
 
-> ##**##Persoonlijk:**
+> ##**Persoonlijk:**
 
 >- 20jaar
 >- geboren te Gent
@@ -18,6 +18,6 @@ Simon Hoornaert NMDAD1
 >- ArtveldeHogeschool
 * Grafische Digitale Media - Multimediaproductie proDEV
 
-> ##**##Werkervaringen:**
+> ##**Werkervaringen:**
 >- Carrefour Waarschoot
 >- Deltaworkx Gent
