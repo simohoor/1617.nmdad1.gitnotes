@@ -22,3 +22,23 @@ Simon Hoornaert NMDAD1
 
 * Carrefour Waarschoot
 * Deltaworkx Gent
+
+> ##**Talenkennis:**
+
+| Taal             | Score                        | 
+ ----------------- | ---------------------------- | 
+| Nederlands       | 10                           | 
+| Engels           | 8                            | 
+| Frans            | 6                            | 
+| Spaans           | 3                            |
+
+> ##**ProgrammeerTalenkennis:**
+
+| Taal             | Score                        | 
+ ----------------- | ---------------------------- | 
+| HTML             | 9                           | 
+| CSS               | 8                            | 
+| JS            | 5                            | 
+|  jQuerry        | 5                            | 
+| C#       | 7                           | 
+| PHP           | 4                            | 
