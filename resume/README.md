@@ -9,14 +9,14 @@ Simon Hoornaert NMDAD1
 >- geboren te Gent
 >- Woonplaats: Waarschoot
 
-> ##**Opleidingen:**
+* ##**Opleidingen:**
 
->- Sint-Franciscus Evergem (2j)
-    >- Moderne Talen   
->- Viso Mariakerke (4j)
-    >- Grafische Digitale Media - Multimedia
->- ArtveldeHogeschool
-    >- Grafische Digitale Media - Multimediaproductie proDEV
+* Sint-Franciscus Evergem (2j)
+    * Moderne Talen   
+* Viso Mariakerke (4j)
+    * Grafische Digitale Media - Multimedia
+* ArtveldeHogeschool
+    * Grafische Digitale Media - Multimediaproductie proDEV
 
 > ##**Werkervaringen:**
 >- Carrefour Waarschoot
