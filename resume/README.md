@@ -5,7 +5,7 @@ Simon Hoornaert NMDAD1
 
 > ##**Persoonlijk:**
 
-* 20jaar
+* 20 jaar
 * geboren te Gent
 * Woonplaats: Waarschoot
 
