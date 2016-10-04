@@ -19,5 +19,6 @@ Simon Hoornaert NMDAD1
     * Grafische Digitale Media - Multimediaproductie proDEV
 
 > ##**Werkervaringen:**
+
 * Carrefour Waarschoot
 * Deltaworkx Gent
