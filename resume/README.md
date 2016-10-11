@@ -1,5 +1,6 @@
 Simon Hoornaert NMDAD1
 ----------------------
+![alt text](https://i.vimeocdn.com/portrait/9148449_300x300.jpeg "Logo Title Text 1")
 
 ## RESUME ##
 
